@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">取消</string>
+    <string name="close">關閉</string>
+    <string name="confirm">確認</string>
+    <string name="done">完了</string>
+    <string name="downloading">ダウンロード中…</string>
+    <string name="error">錯誤</string>
+    <string name="loading">ローディング…</string>
+    <string name="no">否</string>
+    <string name="ok">OK</string>
+    <string name="please_wait222">しばらくお待ちください…</string>
+    <string name="text_none"/>
+    <string name="warn">請注意</string>
+    <string name="yes">是</string>
+</resources>

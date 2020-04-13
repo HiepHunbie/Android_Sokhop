@@ -1,0 +1,254 @@
+[
+    {
+        "outputFile": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 37,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 36,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 36,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 38,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 40,
+                        "endColumn": 38,
+                        "endOffset": 74
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 35,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 35,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 48,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 54,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 36,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 80,
+                        "endColumn": 36,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 43,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 49,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 32,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 32,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 33,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 33,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 55,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 61,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 30,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 38,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 36,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 36,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 33,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 33,
+                        "endOffset": 222
+                    }
+                }
+            }
+        ]
+    }
+]

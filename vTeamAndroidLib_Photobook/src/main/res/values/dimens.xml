@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Common padding, margin -->
+    <dimen name="vt_common_dimen_smallest">4dp</dimen>
+    <dimen name="vt_common_dimen_small">8dp</dimen>
+    <dimen name="vt_common_dimen_normal">12dp</dimen>
+    <dimen name="vt_common_dimen_large">16dp</dimen>
+    <dimen name="vt_common_dimen_xlarge">24dp</dimen>
+    <dimen name="vt_common_dimen_xxlarge">32dp</dimen>
+
+    <!-- TextSize -->
+    <dimen name="vt_text_smallest">10sp</dimen>
+    <dimen name="vt_text_small">12sp</dimen>
+    <dimen name="vt_text_normal">16sp</dimen>
+    <dimen name="vt_text_large">18sp</dimen>
+    <dimen name="vt_text_xlarge">20sp</dimen>
+    <dimen name="vt_text_xxlarge">24sp</dimen>
+
+</resources>

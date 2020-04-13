@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorAccent">#FF80AB</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="toolbar">#299fe7</color>
+    <color name="white">#ffffff</color>
+    <color name="recruitment1">#0099FF</color>
+    <color name="recruitment2">#0066FF</color>
+    <color name="recruitment3">#0033FF</color>
+    <color name="onesignal_bgimage_notif_title_color">#FFFF0000</color>
+    <color name="onesignal_bgimage_notif_body_color">#FF00FF00</color>
+</resources>

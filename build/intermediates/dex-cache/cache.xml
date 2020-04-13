@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.2.0_ac6ed384bf38ab96033cab752c56e23c0e86078d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSI\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_48b97d3641181477433bef0c4e663adde41955cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9864ffc2cb8b5d6d8a95eba265027fdf652aceaf">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_051c5eb6771523ad790c51986cbc0b6bf84ba4f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_5ba4515af00e0533648677454c6aa261315b9e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\libs\httpclient-4.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.4_b9241dca5c89e28ea3a5bcf02c149c417bd97d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0f9e1b5bc8053136d9506713e318f7fcd709b941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6253a40bc849a5a9cb295aa14ab6522a167ec5fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8228d8f8a29052f9165dd04ec6c3d9e098c130d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="533e07533847eb6d35d57610b023d799de622eb2">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ee17a6d07f4c193955146160c3994c77f85ac32d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_d9a017fb6185a0bdd8f86a468551638536c8fe62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_0f38409e7f5fe615d8099da0d21eb45a7cb3e617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_35e70fdbb40954c6c2d540e8522ff0dcb8558267\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_228791ae44d904599da155274b46d08c1a842161\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_9fe5ede358da0bd95b466a9e51690ceca553eac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3602eeed2df78c91398f04eb874024fc138d14b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_7be1ffb40bead48dd469e081696734a1b96d7aba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_6b6ac89c4408f0ac4955ba6548b7a45a538b9550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6b8ecfd67df8600197ad06cdec8a1d14d4ea123f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.baoyz.swipemenulistview-library-1.3.0_bd03b149351b3d7bcece89366850fe9f2f66be3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_a02df4d4de0db523c1107ffde1c350eb96ed22c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_d20682ef5f16332ed6a2ae26e71b2126073ec9e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\libs\httpmime-4.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.4_fb221f91cfb50f9674f4266029a576e7a94765cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_beb745188eca2d5fec2cbe05a20b2ed6b6c11dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\libs\uil1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="111169c43b8a601f571585f75d998e6027e48ff4">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\2\uil1.9.2_4547bbfc8a910538e288e672c122de6d8269213e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_c5ba746cd2d9263fd52d443dd3aae3dbf7f5c757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_103fa6e3f52a23c479c28212b477fc751e6d5eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_39a5bfb36b06efd1428637a1f781a5f059457df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b63d873d0f3394ace8b6a7d9aa194816c6253b4">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.intuit.sdp-sdp-android-1.0.3_4374769eabf05d6974ef30e9155b3acf580d869c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\libs\httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.2_7f642ec452e5080dd1c09c7273530b318975777b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_7d1b3b973563b5b7dd4a427ca51c348999ed338f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0f0226ab861e99afe17b7e975cdda1d17932f533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_2aacad3e96d072e651d98e44cfc9d6e0abdfae82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_715509d08e968b60d18df6bb891fb3c49083f1e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_fbc74b1dae999c9da1193624e6c7fa5a951765db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7bf276b84727689fe89fec5b0f1c0a60b14f3ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2eaf009e303ba441c18d5651d9b05612047c2f30">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.onesignal-OneSignal-3.4.2_518d417e57328b2b92df078ed985d1b5bab7aeeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.5.0_61e88bf2d76943ec86b9b827566b8c375f9b999b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ac48d7ddec0b6847b74d063d816a55463c418eed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_0ee1b9165d970a56782893c7d4ab197e8b3f3bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_3376f83c50f8a349892f6c27e2cdad3931463692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e3271c04fee8c440d3a86eeea36f079200234879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSI\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_3771ae6e6ac3657d585cd9574d1f7ac5edaeba9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9c91408bdcf9a27cc54b3aa74e56c83a7557d50f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WorkApp\SoKhop\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_ae5bf99d2bad52fdd688462a45cf9e6636a941be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSI\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_841fc0ffccb81c4ee2eef8bcb5421c741b18c8ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSI\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_c3d1b2388926c38f3fc40aadfa154272ba27ac73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSI\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\WorkApp\SoKhop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_5cd51a915f1ce19fce55c95e88b2d43839b7ee99\classes.dex" />
+    </item>
+
+</items>

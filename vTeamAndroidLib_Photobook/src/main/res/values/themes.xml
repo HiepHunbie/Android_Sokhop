@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Application theme. -->
+    <style name="VTTheme_NoActionBar" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="VTTheme_Normal" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:actionBarStyle">@style/VTDefaultActionBar</item>
+    </style>
+
+    <style name="VTTheme_Translucent" parent="@style/VTTheme_NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="VTTheme_Dialog_FullscreenWithBackground" parent="@style/VTTheme_NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/vt_bg_dialog</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="TVTheme_Translucent_HasActionBar" parent="@style/VTTheme_Normal">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="VTDefaultActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:background">#000000</item>
+        <item name="android:titleTextStyle">@style/VTDefaultActionBarTitleText</item>
+    </style>
+    <!-- ActionBar title text -->
+    <style name="VTDefaultActionBarTitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

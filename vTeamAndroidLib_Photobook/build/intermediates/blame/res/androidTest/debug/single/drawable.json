@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vt_bg_transparent_clickable.xml",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable\\vt_bg_transparent_clickable.xml"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vt_dialog_bg_progress_content.xml",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable\\vt_dialog_bg_progress_content.xml"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vt_activity_webview_btn_previous.xml",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable\\vt_activity_webview_btn_previous.xml"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vt_activity_webview_btn_reload.xml",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable\\vt_activity_webview_btn_reload.xml"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vt_activity_webview_btn_next.xml",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable\\vt_activity_webview_btn_next.xml"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vt_bg_white_clickable.xml",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable\\vt_bg_white_clickable.xml"
+    }
+]

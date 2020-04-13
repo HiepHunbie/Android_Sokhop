@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vt_bg_dialog">#80000000</color>
+    <dimen name="vt_common_dimen_large">16dp</dimen>
+    <dimen name="vt_common_dimen_normal">12dp</dimen>
+    <dimen name="vt_common_dimen_small">8dp</dimen>
+    <dimen name="vt_common_dimen_smallest">4dp</dimen>
+    <dimen name="vt_common_dimen_xlarge">24dp</dimen>
+    <dimen name="vt_common_dimen_xxlarge">32dp</dimen>
+    <dimen name="vt_text_large">18sp</dimen>
+    <dimen name="vt_text_normal">16sp</dimen>
+    <dimen name="vt_text_small">12sp</dimen>
+    <dimen name="vt_text_smallest">10sp</dimen>
+    <dimen name="vt_text_xlarge">20sp</dimen>
+    <dimen name="vt_text_xxlarge">24sp</dimen>
+    <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+    <string name="confirm">確認</string>
+    <string name="done">完了</string>
+    <string name="downloading">ダウンロード中…</string>
+    <string name="error">エラー</string>
+    <string name="loading">ローディング…</string>
+    <string name="no">否</string>
+    <string name="ok">OK</string>
+    <string name="please_wait222">しばらくお待ちください…</string>
+    <string name="text_none"/>
+    <string name="warn">ご注意</string>
+    <string name="yes">是</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="TVTheme_Translucent_HasActionBar" parent="@style/VTTheme_Normal">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="VTDefaultActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:background">#000000</item>
+        <item name="android:titleTextStyle">@style/VTDefaultActionBarTitleText</item>
+    </style>
+    <style name="VTDefaultActionBarTitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="VTProgressDialogDefault" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="VTTheme_Dialog_FullscreenWithBackground" parent="@style/VTTheme_NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/vt_bg_dialog</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="VTTheme_NoActionBar" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="VTTheme_Normal" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:actionBarStyle">@style/VTDefaultActionBar</item>
+    </style>
+    <style name="VTTheme_Translucent" parent="@style/VTTheme_NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_action_previous_item.png",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_editext_clear.png",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_editext_clear.png"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_action_refresh.png",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_action_next_item_disabled.png",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_action_next_item_disabled.png"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_action_next_item.png",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_action_next_item.png"
+    },
+    {
+        "merged": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_action_previous_item_disabled.png",
+        "source": "E:\\WorkApp\\SoKhop\\vTeamAndroidLib_Photobook\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_action_previous_item_disabled.png"
+    }
+]

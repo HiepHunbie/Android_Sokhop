@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Normal -->
+    <string name="confirm">確認</string>
+    <string name="error">エラー</string>
+    <string name="warn">ご注意</string>
+    <string name="done">完了</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+
+    <!--  -->
+    <string name="text_none"></string>
+
+    <!-- Progress dialog message -->
+    <string name="loading">ローディング&#8230;</string>
+    <string name="downloading">ダウンロード中&#8230;</string>
+    <string name="please_wait222">しばらくお待ちください&#8230;</string>
+
+</resources>

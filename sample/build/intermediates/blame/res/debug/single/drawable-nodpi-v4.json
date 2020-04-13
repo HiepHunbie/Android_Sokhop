@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat01.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat01.jpg"
+    },
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat04.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat04.jpg"
+    },
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat02.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat02.jpg"
+    },
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat07.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat07.jpg"
+    },
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat06.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat06.jpg"
+    },
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat05.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat05.jpg"
+    },
+    {
+        "merged": "E:\\WorkApp\\MyApplication\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cat03.jpg",
+        "source": "E:\\WorkApp\\MyApplication\\sample\\src\\main\\res\\drawable-nodpi\\cat03.jpg"
+    }
+]

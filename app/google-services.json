@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798524888207",
+    "project_id": "sokhop-e1609"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798524888207:android:c5c73888af37ad5b",
+        "android_client_info": {
+          "package_name": "com.example.gman.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798524888207-7f1b1g2nh19dm1q6a6o3pnfdkf97blva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gman.myapplication",
+            "certificate_hash": "F7C49EBD3C3D57F8CE888BEA320CEA70B6A98BBC"
+          }
+        },
+        {
+          "client_id": "798524888207-rc038gfiignlco51itdou0gj3t518njm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxvzIxKh5lZXukrp9gk9zy49FlbI48aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
